@@ -1,0 +1,759 @@
+---
+title: "Ming Tang's resume"
+author: Ming Tang
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+# uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+---
+
+```{css, echo=FALSE}
+.pagedjs_page:not(:first-of-type) {
+  background: white;
+}
+
+.pagedjs_page:not(:first-of-type) {
+  --sidebar-width: 0rem;
+  --sidebar-background-color: #ffffff;
+  --main-width: calc(var(--content-width) - var(--sidebar-width));
+  --decorator-horizontal-margin: 0.2in;
+}
+```
+
+Aside
+================================================================================
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> tangming2005@gmail.com
+- <i class="fa fa-github"></i> [github.com/crazyhottommy](https://github.com/crazyhottommy)
+- <i class="fa fa-phone"></i> +1 352-226-9384
+- website: [divingintogeneticsandgenomics.rbind.io/](https://divingintogeneticsandgenomics.rbind.io/)
+- For more information, please contact me via email.
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Extensive experience with next generation sequencing data analysis and pipeline workflow.
+
+- Experienced in Single-cell data analysis.
+
+- Highly skilled in R, Bash and Python.
+
+- Great communication skills.
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+This resume was made with the R  
+package [**pagedown**](https://github.com/rstudio/pagedown).
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Ming Tang {#title}
+--------------------------------------------------------------------------------
+
+**Senior Scientist**  
+**Department of Data Science**  
+**Dana-Farber Cancer Institute**  
+**Boston, MA, 02215**
+
+Employment {data-icon=address-book}
+--------------------------------------------------------------------------------
+
+### Postdoctoral Fellow 
+
+MD Anderson Cancer Center
+
+TX, USA
+
+2015 - 2017
+
+### Research Scientist
+MD Anderson Cancer Center
+
+TX, USA
+
+2017 - 2018 
+
+
+### Senior Bioinformatics Scientist
+
+Harvard FAS informatics
+
+MA, USA  
+
+2018 - 2020 
+
+### Senior Scientist 
+
+Dana-Farber Cancer Institute
+
+MA, USA 
+
+2020- 
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Shanghai Jiaotong University
+
+B.S. in Biotechnology
+
+Shanghai, China
+
+2008
+
+
+### University of Florida
+
+Ph.D. in Genetics and Genomics
+
+FL, USA
+
+2014
+
+Honors and awards
+--------------------------------------------------------------------------------
+
+### People’s Scholarship
+
+Shanghai Jiaotong University
+
+China
+
+2006
+
+### National Stipend for Academic Excellence
+
+Shanghai Jiao Tong University
+
+China  
+
+2007
+
+### National Scholarship for Academic Excellence
+
+Shanghai Jiao Tong University
+
+China  
+
+2007
+
+### Outstanding International Student
+
+University of Florida
+
+USA
+
+2012
+
+### Genetics & Genomics program Travel Grant
+
+University of Florida
+
+USA
+
+2013
+
+### Next Generation Sequencing course certificate
+
+Michigan State University
+
+USA
+
+2014
+
+### Summer Institutes in Statistics for Big Data Scholarship
+
+University of Washington
+
+USA
+
+2015
+
+### USC BD2K Data Science Road-Trip fellow
+
+University of Southern California 
+
+USA
+
+2018
+
+### Bioconductor annual meeting Travel award
+
+Bioconductor
+
+NYC, USA 
+
+2019
+
+### Top 75 Bioinformatics Blogs and Websites for Bioinformaticians
+
+feedspot.com
+
+USA
+
+2019
+
+Publications (\* for co-first author) {data-icon=file}
+--------------------------------------------------------------------------------
+
+### Restraint of angiogenesis by zinc finger transcription factor CTCF-dependent chromatin insulation.
+
+*Proc Natl Acad Sci USA*. 2011 Sep 13;108(37):15231-6. PubMed PMID: 21896759
+
+N/A
+
+2011
+
+**Tang M**, Chen B, Lin T, Li Z, Pardo C, et al. 
+
+### CTCF-dependent chromatin insulator as a built-in attenuator of angiogenesis. 
+
+*Transcription*. 2012 Mar-Apr;3(2):73-7. PubMed PMID: 22414750; PubMed Central PMCID: PMC3337828.  
+
+N/A
+
+2012
+
+Lu J and **Tang M**.
+
+### The malignant brain tumor (MBT) domain protein SFMBT1 is an integral histone reader subunit of the LSD1 demethylase complex for chromatin association and epithelial-to-mesenchymal transition.
+
+*J Biol Chem* 2013 Sep 20;288(38):27680-91. PubMed PMID: 23928305;PubMed Central PMCID: PMC3779763.
+
+N/A
+
+2013 
+
+**Tang M**, Shen H, Jin Y, Lin T, Cai Q, et al
+
+### TRIM29 suppresses TWIST1 and invasive breast cancer behavior. 
+
+*Cancer Res*. 2014 Sep 1;74(17):4875-87. PubMed PMID: 24950909.
+
+N/A
+
+2014
+
+Ai L, Kim WJ, Alpay M, **Tang M**, Pardo CE, et al.
+
+### Genomic and proteomic analysis of transcription factor TFII-I reveals insight into the response to cellular stress.
+
+*Nucleic Acids Res*. 2014;42(12):7625-41. PubMed PMID:24875474; PubMed Central PMCID: PMC4081084.
+
+N/A
+
+2014
+
+Fan AX, Papadopoulos GL, Hossain MA, Lin IJ, Hu J, **Tang M**, et al.
+
+### MOF Acetylates the Histone Demethylase LSD1 to Suppress Epithelial-to-Mesenchymal transition.
+*Cell Reports*. 2016.PMID: 27292636
+
+N/A
+
+2016
+
+Luo HC, Shenoy AK, Li X, Jin Y, Jin L, Cai Q, **Tang M**, Liu Y, Chen H et.al.
+
+### A Molecular Take on Malignant Rhabdoid Tumors. 
+*Trends in Cancer* 2016. May;2(5):217-218
+
+N/A
+
+2016
+
+**Tang M** and Verhaak R.
+
+
+### Suppression of type I IFN signaling in tumors mediates resistance to anti-PD-1 treatment that can be overcome by radiotherapy.
+
+*Cancer Res*. 2016. Nov 7. pii: canres.3142.2015.
+
+N/A
+
+2016
+
+Wang X, Schoenhals JE, Li A, Valdecanas DR, Ye H, Zhang F, Tang C, **Tang M**,
+Liu CG, LiuX, Krishnan S, Allison JP, Sharma P, Hwu P, Komaki R, Overwikjk WW,
+Gomez DR, Chang JY, Hahn SM, Cortez Mam Welsh JW
+
+
+### Epithelial-to-mesenchymal transition confers pericyte properties on cancer cells.
+
+*Journal of Clinical Investigation*. 2016. Nov 1;126(11):4174-4186. doi: 10.1172/JCI86623
+
+N/A
+
+2016
+
+Shenoy AK, Jin Y, Luo H, **Tang M**, Pampo C, Shao R, Siemann DW, Wu L,
+Heldermon C, Law BK, Chang LJ, Lu J.
+
+###  Systematic Analysis of Telomere Length, Telomerase and Telomere Maintenance across 31 cancer types.
+
+*Nature Genetics*. 2017. doi:10.1038/ng.3781
+
+N/A
+
+2017
+
+Barthel FP, Wei W, **Tang M**, Martinez-Ledesma E, Hu X, Amin S, Seth S, Song X,
+Lichtenberg T, Hu J, Zhang J, Zheng S, Verhaak R.
+
+### Synthetic essentiality of chromatin remodeling factor CHD1 in PTEN-deficient cancer
+
+*Nature*. 2017. doi:10.1038/nature21357
+
+N/A
+
+2017
+
+Zhao D, Lu X, Wang G, Lan Z, Liao W, Li J, Liang X Chen J, Shah S, Shang X,
+**Tang M**, Deng P, Dey P, Chakravarti D, Chen P, Spring D, Navone N, Troncoso P,
+Zhang j, Wang YA, DePinho RA
+
+### Integrative Analysis identifies Four Molecular and Clinical Subsets in Uveal Melanoma
+
+*Cancer Cell*. 2017.32:2:p204-220.e15
+
+N/A
+
+2017
+
+Robertson AG, Shih J, Yau C, Gibb EA, Mungall KL, Hess JM, Uzunangelov V,
+Walter V, Danilova L, Lichtenberg TM, Kucherlapati M, Kimes PK, **Tang M**, Penson
+A, Babur O, Bristow CA, Hoadley KA, Iype L, Chang MT, Oba J, The Cancer
+Genome Atlas (TCGA) Network, Cherniack AD, Benz C, Verhaak R, Griewank KG,
+Felau I, Zenklusen JC, Gershenwald JE, Schoenfield L, Lazar AJ, Abdel-Rahman
+M, Roman-Roman S, Stern, MH, Cebulla CM, Williams MD, Jager MJ, Coupland S,
+Esmaeli B, Kandoth C, Woodman SE
+
+### TFII-I interacts with E2F transcription factors and regulates their association with the cooccupied ATF3 gene locus.
+
+*Jounral of Cellular Biochemistry*. 2017. Doi:10.1002/jcb.26235
+
+N/A
+
+2017
+
+Fan A, Aryan M, Shen Y, Hossain M, **Tang M**, Lu J, Strouboulis J, Bungert J.
+
+### TumorFusions: an integrative resource for reporting cancerassociated transcript fusion in 33 tumor types.
+
+*Nucleic Acids Research*. 2017.Doi:10.1093/nar/gkx1018/4584571
+
+N/A
+
+2017
+
+Hu X, Wang Q, **Tang M**, Barthel FP, Amin S, Yoshihara K, Lang FM, Lee SH, Zheng S, Verhaak R.
+
+### An Integrated Platform for Genome-wide Mapping of Chromatin States Using Highthroughput ChIP-sequencing In Tumor Tissues
+
+*Journal of Visualized Experiments*. 2018.(134),e56972,doi:10.3791/56972.
+
+N/A
+
+2018
+
+Terranova C, **Tang M**, Orouji E, Maitituoheti M, Raman A, Amin S, Liu Z, Rai K.
+
+### The Tandem Duplicator Phenotype Is a Prevalent Genome-Wide Cancer Configuration Driven by Distinct Gene Mutations
+
+*Cancer Cell*. 2018. 13;34(2)197-210.e5 doi:10.1016/j.ccell.2018.06.008
+
+N/A
+
+2018
+
+Menghi F, Barthel FP, Yadav V, **Tang M**, Ji B, Tang Z, Cater GW, Ruan Y, Scully R,
+Verhaak R, Jonkers J, Liu E.
+
+### Positive Regulation of Transcription by Human ZMYND8 through Its Association with PTEFb Complex.
+
+*Cell Reports*. 2018. Aug21;24(8):21441-2154.e6 doi:10.1016/j.celrep.2018.07.064
+
+N/A
+
+2018
+
+Ghosh K, **Tang M**, Kumari N, Nandy A, Basu S, Mall DP, Rai K, Biswas D
+
+### Histone deacetylase inhibitor targets CD123/CD47-positive cells and reverse chemoresistance phenotype in acute myeloid leukemia.
+
+*Leukemia*. 2018. Doi:1038/s41375-018-0279-6.
+
+N/A
+
+2018
+
+Yan B, Chen Q, Shimada K, **Tang M**, Li H, Gurumurthy A, Khoury JD, Xu B, Huang S, Qiu Y
+
+### Landscape of EGFR-Dependent and -Independent Resistance Mechanisms to Osimertinib and Continuation Therapy Beyond Progression in EGFR-Mutant NSCLC.
+
+*Clin Cancer Res*. 2018 Dec 15;24(24):6195-6203. doi: 10.1158/1078-0432.CCR-18-1542. 
+
+N/A
+
+2018
+
+Le X, Puri S, Negrao M, Nilsson M, Robichaux J, Boyle T, Hicks J, Lovinger K, Roarty E,
+Rinsurongkawong W,**Tang M**, Sun H, Elamin Y, Lacerda  L, Lewis J, Roth J, Swisher S, Lee J, William W, Glisson B,
+Zhang J, Papadimitrakopoulou V, Gray J, Heymach J.
+
+### KRAS-IRF2 Axis Drives Immune Suppression and Immune Therapy Resistance in Colorectal Cancer.
+
+*Cancer Cell*. 2019 Apr 15;35(4):559-572.e7. doi: 10.1016/j.ccell.2019.02.008. 
+
+N/A
+
+2019
+
+Liao W, Overman M, Boutin A, Shang X, Zhao D, Dey P, Li J, Wang G, Lan Z, Li J, **Tang M**,
+Jiang S, Ma X, Chen P, Katkhuda R, Korphaisarn K, Chakravarti D, Chang A, Spring D, Chang Q, Zhang J,
+Maru D, Maeda D, Zebala J, Kopetz S, Wang Y, Depinho R.
+
+
+### Distinct Co-Acquired Alterations and Genomic Evolution During TKI Treatment in Non-Small-Cell Lung Cancer Patients With or Without Acquired T790M Mutation
+
+*Oncogene*. 2020 Feb;39(9):1846-1859. doi: 10.1038/s41388-019-1104-z. 
+
+N/A
+
+2019
+
+Jin Y, Bao H, Le X, Fan X, **Tang M**, Shi X, Zhao J, Yan J, Xu Y, Quek K, Elamin Y, Zhan J, Futreal A, Wistuba I, Heymach J, Lou G, Shao L, He Q, Lin C, Wu X, Shao Y, Wang X, He J, Chen Y, Stebbing J, Chen M, Zhang J, Yu X.
+
+
+### LATS kinase–mediated CTCF phosphorylation and selective loss of genomic binding.
+
+*Science Advances* . 2020 Feb 19;6(8):eaaw4651. doi: 10.1126/sciadv.aaw4651.
+
+N/A
+
+2020
+
+Luo H, Yu Q, Liu Y, **Tang M**, Liang M, Zhang D, Xiao T, Wu L, Tan M, Ruan Y, Bungert J, Lu J.
+
+### Fast analysis of scATAC-seq data using a predefined set of genomic regions.
+
+**F1000Research**. 2020, 9:199 (https://doi.org/10.12688/f1000research.22731.2)
+
+N/A
+
+2020 
+
+Valentina Giansanti, **Ming Tang**, Davide Cittaro.
+
+### KMT2D Deficiency Impairs Super-Enhancers to Confer a Glycolytic Vulnerability in Lung Cancer.
+
+*Cancer Cell*. 2020 Apr 13;37(4):599-617.e7. doi: 10.1016/j.ccell.2020.03.005.
+
+N/A
+
+2020
+
+Alam H\*, **Tang M\***, Maitituoheti M, Dhar S, Kumar M, han C, Ambati C, Amin S, Gu B, Chen T, Lin Y,
+Chen J, Muller F, Putluri N, Flores E, Demayo F, Baseler L, Rai K, Lee M.
+
+### Tumor microenvironment remodeling enables bypass of oncogenic KRAS dependency in pancreatic cancer
+
+*Cancer Discovery*. 2020 Apr 27. doi: 10.1158/2159-8290.CD-19-0597.
+
+N/A
+
+2020
+
+Hou P, Kapoor A, Zhang Q, Li J, Wu C, Li J, Lan Z, **Tang M**, Ma X, Ackroyd J, Kalluri R, Zhang J, Jiang S,
+Spring D, Wang Y, DePinho R.
+
+
+Preprint (\* for co-first author) {data-icon=file}
+--------------------------------------------------------------------------------
+
+### Bivalent and Broad Chromatin Domains Regulate Pro-metastatic Drivers in Melanoma.
+
+*BioRxiv* 2019 doi: https://doi.org/10.1101/721480
+
+N/A
+
+2019
+
+Terranova C\*, **Tang M\***, Maitituoheti M, Raman A, Schulz J, Amin S, Orouji E, Tomczak K, Sarkar S, Oba J,
+Crasy C, Wu C, Zhao D, Chen K, Haydu L, Wang W, Lazar A, Woodman S, Bernatchez C, Rai K.
+
+
+### Evaluating single-cell cluster stability using the Jaccard similarity index.
+
+*BioRxiv* 2020 doi: https://doi.org/10.1101/2020.05.26.116640
+
+N/A
+
+2020
+
+**Tang M**, Kaymaz Y, Logeman B, Eichhorn S, Liang Z, Dulac C, Sackton T.
+
+Book Chapters {data-icon=book}
+--------------------------------------------------------------------------------
+
+### Genetically altered cancer epigenome.
+
+Epigenetic Gene Expression and Regulation. 2016. Elsevier, Inc. Edited by
+Suming Huang, Michael Litt, and Cynthia Ann Blakey
+
+N/A
+
+2016
+
+**Tang M**, Luo HC and Lu J
+
+
+### The biostar Handbook: A Beginner’s Guide to Bioinformatics.
+
+https://read.biostarhandbook.com/ 2017. Edited by Istvan Albert.
+
+N/A
+
+2017
+
+Sebastian A, Albert R, Leipzig J, Kelkar H, **Tang M**, Shen W, Coster WD
+
+### Computational analysis of epigenetic modifications in melanoma cancer
+
+Computational Epigenetics and Diseases. 2017. Elsevier,Inc
+
+N/A
+
+2018
+
+Rai K, **Tang M**.
+
+Software {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### pyflow-ChIPseq, a snakemake workflow for processing ChIP-seq data.
+
+github link https://github.com/crazyhottommy/pyflow-ChIPseq
+
+N/A
+
+2017
+
+
+### pyflow-ATACseq, a snakemake workflow for processing ATAC-seq data.
+
+github link https://github.com/crazyhottommy/pyflow-ATACseq
+
+N/A
+
+2017
+
+
+### pyflow-RNAseq, a snakemake workflow for processing RNA-seq data.
+
+github link https://github.com/crazyhottommy/pyflow-RNAseq
+
+N/A
+
+2017
+
+
+### pyflow-DNAseq, a snakemake workflow for processing DNA-seq data.
+
+gitlab link https://gitlab.com/tangming2005/snakemake_DNAseq_pipeline/tree/multiRG
+
+N/A
+
+2018
+
+
+### pyflow-RRBS, a snakemake workflow for processing RRBS data.
+
+gitlab link https://gitlab.com/tangming2005/pyflow-RRBSeq
+
+N/A
+
+2018
+
+
+### pyflow-scATACseq, a snakemake workflow for post-processing single-cell ATAC-seq data.
+
+github link https://github.com/crazyhottommy/pyflow-scATACseq
+
+N/A
+
+2019
+
+### scATACutils, an R package for analyzing single-cell ATAC-seq data.
+
+github link https://github.com/crazyhottommy/scATACutils
+
+N/A
+
+2019
+
+
+### scclusteval, an R package for evaluating single-cell RNA-seq cluster stability
+
+github link https://github.com/crazyhottommy/scclusteval
+
+N/A
+
+2019
+
+Teaching Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Software Carpentry 2-day workshop.
+
+Instructor of R and bash for the software carpentry workshop held in the University of Miami. https://divingintogeneticsandgenomics.rbind.io/talk/2015-miami-carpentry/
+
+FL, USA
+
+2014
+
+### GS01 1143 Introduction to Bioinformatics course.
+
+I taught the ChIP-seq bioinformatics lab for the GS01 1143 Introduction to Bioinformatics course to ~30 people with diverse background in MD Anderson Cancer Center. https://divingintogeneticsandgenomics.rbind.io/talk/2017-gsbs-chipseq-class/
+
+TX, USA
+
+2017
+
+
+### Next-Gen Sequence Analysis Workshop.
+
+I taught the ChIP-seq lesson for 2018 ANGUS Next-Gen Sequence Analysis Workshop held in UC Davis from 7/1/2018 to 7/14/2018, and TAed for the rest of the sessions. https://divingintogeneticsandgenomics.rbind.io/talk/2018-dibsi-course/
+
+CA, USA
+
+2018
+
+### Harvard FAS informatics nanocourse
+
+In this 2-week long Harvard FAS informatics nanocourse, I co-taught snakemake for one afternoon and lead-instructed scRNAseq analysis for a full day. https://divingintogeneticsandgenomics.rbind.io/talk/2019-harvard-fas-workshop/
+
+MA, USA
+
+2019
+
+### Liu Lab new hire bioinformatics training
+
+I TAed a 5-week long bioinformatics training for the Liu lab new hires using materials from Harvard course STAT115/215: Introduction to Computational Biology and Bioinformatics
+
+MA, USA
+
+2020
+
+Invited talk {data-icon=microphone-alt}
+--------------------------------------------------------------------------------
+
+### From cell line to command line: my journey to bioinformatics
+
+I was invited to give a talk to my PhD Genetics and Genomics program at the University of Florida. I talked about my personal experience on how I started doing bioinformatics and shared tips and resources to get the students started their own journey into bioinformatics. https://divingintogeneticsandgenomics.rbind.io/talk/2018-uf-talk/
+
+FL, USA
+
+2018
+
+### Reproducible research in bioinformatics
+
+I was invited to give a talk on reproducible bioinformatics research to the students in the Bunker Hill Community College in Boston. https://divingintogeneticsandgenomics.rbind.io/talk/2019-bunkerhill-talk/
+
+MA, USA
+
+2019
+
+### Reproducible computing for your own benifit.
+
+I was invited to give a talk on reproducible computing at Center for Functional Cancer Epigenetics(CFCE) in Dana-Farber Cancer Institute.
+
+MA, USA
+
+2020
+
+Professional service {data-icon=pen-alt}
+--------------------------------------------------------------------------------
+
+### Reviewers for journals
+
+
+N/A
+
+N/A
+
+::: concise
+- Clinical Cancer Research. 
+- GigaScience.
+- Bioinformatics
+- Aging
+- Cancer Research
+- F1000 Research
+- Cancer Letters
+- Cell Reports
+- BMC genetics
+- Oncogene
+- PLOS ONE
+- Oncotarget
+:::
+
+
+Professional membership {data-icon=suitcase}
+--------------------------------------------------------------------------------
+### Member, Society for Neuro-Oncology (SNO)
+
+N/A
+
+N/A
+
+2016
+
+### Genomics Advisory committee member for Data Carpentry, USA
+
+N/A
+
+N/A
+
+2017
+
+### Certified Instructor, Software Carpentry, Data Carpentry, USA
+
+N/A
+
+N/A
+
+2017 -
+
+### Member, American Society of Clinical Oncology (ASCO)
+
+N/A
+
+N/A
+
+2017
+
+### Member, Bioinformatics Organization.
+
+N/A
+
+N/A
+
+2020
+
+
+
