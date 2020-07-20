@@ -40,7 +40,7 @@ Contact Info {#contact}
 Skills {#skills}
 --------------------------------------------------------------------------------
 
-- Extensive experience with next generation sequencing data analysis and pipeline workflow.
+- Extensive experience with next generation sequencing data analysis and pipeline/workflow development.
 
 - Experienced in Single-cell data analysis.
 
@@ -207,6 +207,14 @@ feedspot.com
 USA
 
 2019
+
+### Bioconductor annual meeting Travel award
+
+Bioconductor, virtual due to COVID19, waived registration fee.
+
+Boston, USA 
+
+2020
 
 Publications (\* for co-first author) {data-icon=file}
 --------------------------------------------------------------------------------
@@ -690,7 +698,7 @@ MA, USA
 Professional service {data-icon=pen-alt}
 --------------------------------------------------------------------------------
 
-### Reviewers for journals
+### Reviewer for journals
 
 
 N/A
