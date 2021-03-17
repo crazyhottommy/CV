@@ -216,7 +216,7 @@ Boston, USA
 
 2020
 
-Publications (\* for co-first author) {data-icon=file}
+Publications (\* for co-first author,  # for corresponding author) {data-icon=file}
 --------------------------------------------------------------------------------
 
 ### Restraint of angiogenesis by zinc finger transcription factor CTCF-dependent chromatin insulation.
@@ -490,8 +490,27 @@ N/A
 Hou P, Kapoor A, Zhang Q, Li J, Wu C, Li J, Lan Z, **Tang M**, Ma X, Ackroyd J, Kalluri R, Zhang J, Jiang S,
 Spring D, Wang Y, DePinho R.
 
+### Integrative analyses of single-cell transcriptome and regulome using MAESTRO
 
-Preprint (\* for co-first author) {data-icon=file}
+*Genome Biology*. 2020 Aug 7;21(1):198. doi: 10.1186/s13059-020-02116-x.
+
+N/A
+
+2020
+
+Chenfei Wang, Dongqing Sun, Xin Huang, Changxin Wan, Ziyi Li, Ya Han, Qian Qin, Jingyu Fan, Xintao Qiu, Yingtian Xie, Clifford A Meyer, Myles Brown, **Ming Tang**, Henry Long, Tao Liu, X Shirley Liu.
+
+### Evaluating single-cell cluster stability using the Jaccard similarity index.
+
+*Bioinformatics* 2020 Nov 09. doi: https://doi.org/10.1093/bioinformatics/btaa956
+
+N/A
+
+2020
+
+**Tang M#**, Kaymaz Y, Logeman B, Eichhorn S, Liang Z, Dulac C, Sackton T#.
+
+Preprint (\* for co-first author, # for corresponding author) {data-icon=file}
 --------------------------------------------------------------------------------
 
 ### Bivalent and Broad Chromatin Domains Regulate Pro-metastatic Drivers in Melanoma.
@@ -505,16 +524,35 @@ N/A
 Terranova C\*, **Tang M\***, Maitituoheti M, Raman A, Schulz J, Amin S, Orouji E, Tomczak K, Sarkar S, Oba J,
 Crasy C, Wu C, Zhao D, Chen K, Haydu L, Wang W, Lazar A, Woodman S, Bernatchez C, Rai K.
 
+### HieRFIT: Hierarchical Random Forest for Information Transfer
 
-### Evaluating single-cell cluster stability using the Jaccard similarity index.
-
-*BioRxiv* 2020 doi: https://doi.org/10.1101/2020.05.26.116640
+*BioRxiv* 2020 doi: https://doi.org/10.1101/2020.09.16.300822
 
 N/A
 
 2020
 
-**Tang M**, Kaymaz Y, Logeman B, Eichhorn S, Liang Z, Dulac C, Sackton T.
+Kaymaz Y, Ganglberger F, **Tang M**,Fernandez-Albert F, Lawless N, Sackton T.
+
+### The histologic phenotype of lung cancers may be driven by transcriptomic features rather than genomic characteristics
+*BioRxiv* 2021 doi: https://doi.org/10.1101/2021.01.01.425056
+
+N/A
+
+2021
+
+**Tang M**,  Abbas H, Negrao M, Ramineni M, Hu X, Fujimoto J, Reuben A, Varghese S, Zhang J, Li J, Chow CW, Mao X, Song X, Lee W, Wu J, Little L, Gumbs C, Behrens C, Moran C, Weissferdt A, Lee J, Sepesi B, Swisher S, Heymach J,  Wistuba I, Futreal A, Kalhor N, Zhang J.
+
+
+### CHIPS: A Snakemake pipeline for quality control and reproducible processing of chromatin profiling data
+*BioRxiv* 2021 doi: https://doi.org/10.1101/2021.03.09.434676
+
+N/A
+
+2021
+
+Taing L, Cousins C, Bai G, Cejas P, Qiu X, Brown M, Meyer C, Liu X, Long H#, **Tang M#** (2021). 
+
 
 Book Chapters {data-icon=book}
 --------------------------------------------------------------------------------
@@ -695,6 +733,30 @@ MA, USA
 
 2020
 
+### MAESTRO: Model-based Analyses of Single-cell Transcriptome and Regulome
+
+I gave a talk on our single-cell RNA-seq and single-cell ATAC-seq analysis tool MAESTRO in the Broad Institute CC&E Seminar Series.
+
+MA, USA
+
+2020
+
+### PACT meeting update: single-cell and bulk ATAC-seq analysis pipelines
+
+In the joint Partnership for Access to Clinical Trials (PACT) and CIMAC-CIDC Network Fall meeting. I presented the update for our bulk ATAC-seq pipeline and the MAESTRO single-cell workflow. I led the discussion of the adoption of single-cell ATAC-seq in the CIMAC trails afterwards.
+
+MA, USA
+
+2020
+
+### Biological data science in a nutshell.
+
+I was invited to give a zoom talk on data science for students in the Palm Beach State Colleage in Florida.
+
+FL, USA
+
+2020
+
 Professional service {data-icon=pen-alt}
 --------------------------------------------------------------------------------
 
@@ -762,6 +824,14 @@ N/A
 N/A
 
 2020
+
+### Guest Editor, Frontiers in Genetics on research topic “Precision Medicine in Cancer       Treatment Using Multi-omics Data”.
+
+N/A
+
+N/A
+
+2021
 
 
 
